@@ -1,7 +1,6 @@
 import sys
 from nltk.corpus import wordnet
 
-
 def get_similar_words(word):
     synonyms = []
     antonyms = []
